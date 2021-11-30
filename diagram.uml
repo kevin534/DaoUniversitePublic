@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-129.0" y="-53.0">com</node>
+    <node x="-138.0" y="-53.0">images</node>
+    <node x="-143.5" y="-53.0">netscape</node>
+    <node x="348.0" y="-33.5">org</node>
+    <node x="52.5" y="-43.5">Class50</node>
+    <node x="154.0" y="157.0">toolbarButtonGraphics</node>
+    <node x="70.0" y="87.25">sun</node>
+    <node x="454.0" y="132.5">exceptions</node>
+    <node x="-218.5" y="17.5">lombok</node>
+    <node x="26.5" y="-119.0">DataSource</node>
+    <node x="108.5" y="26.0">jdk</node>
+    <node x="-84.5" y="-194.5">META-INF</node>
+    <node x="471.0" y="-164.5">groovyjarjarasm</node>
+    <node x="194.5" y="-156.5">DAO</node>
+    <node x="502.5" y="-33.5">java</node>
+    <node x="513.0" y="-110.5">groovy</node>
+    <node x="513.0" y="58.0">javax</node>
+    <node x="256.5" y="94.5">Test</node>
+    <node x="267.0" y="17.5">Model</node>
+    <node x="201.5" y="-81.5">groovyjarjarpicocli</node>
+    <node x="-124.5" y="132.5">groovyjarjarcommonscli</node>
+    <node x="-192.5" y="-130.0">groovyjarjarantlr</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="false" x="234.0" y="16.0" />
+  <SelectedNodes>
+    <node>Test</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
